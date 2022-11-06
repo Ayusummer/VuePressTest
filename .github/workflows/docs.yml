@@ -21,8 +21,8 @@ jobs:
           # if your docs needs submodules, uncomment the following line
           # submodules: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.5.1
         with:
           # 选择要使用的 node 版本
           node-version: '18'
