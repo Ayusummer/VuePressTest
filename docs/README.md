@@ -265,7 +265,3 @@ fatal: Authentication failed for 'https://github.com/Ayusummer/vue-vben-admin.gi
 > **Warning:** Treat your tokens like passwords and keep them secret. When working with the API, use tokens as environment variables instead of hardcoding them into your programs.
 
 然后就可以通过 `username` 和 `token` 来进行一些权限操作了
-
-![image-20220503213634670](http://cdn.ayusummer233.top/img/202205032136970.png)
-
----
