@@ -1,21 +1,3 @@
-# 目录
-
-- [目录](#目录)
-- [查看与升级版本](#查看与升级版本)
-- [安装与配置相关](#安装与配置相关)
-  - [安装](#安装)
-    - [Linux](#linux)
-      - [PPA](#ppa)
-  - [配置](#配置)
-- [仓库相关](#仓库相关)
-  - [常规操作](#常规操作)
-  - [分支操作](#分支操作)
-- [relations](#relations)
-  - [code996](#code996)
-- [learnGitBranching](#learngitbranching)
-- [报错收集](#报错收集)
-  - [fatal: Authentication failed](#fatal-authentication-failed)
-
 # 查看与升级版本
 
 > [How to upgrade Git on Windows to the latest version - Stack Overflow](https://stackoverflow.com/questions/13790592/how-to-upgrade-git-on-windows-to-the-latest-version)
